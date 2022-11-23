@@ -5,8 +5,8 @@ Tenho mais domínio em HTML5 e CSS3 e estou estudando Javascript.
 
 <div>
   <a href="https://github.com/artuurlz"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=artuurlz&show_icons=true&theme=tokyonight">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurlz&layout=compact&theme=tokyonight">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=artuurlz&show_icons=true&theme=tokyonight">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artuurlz&layout=compact&theme=tokyonight">
 </div>
 
 <div style="display: inline-block"><br>
