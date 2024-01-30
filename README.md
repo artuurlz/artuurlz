@@ -1,6 +1,6 @@
 Olá, :D
 
-Me chamo Artur, tenho 23 anos e atualmente estou estudando front-end onde é o meu foco.<br>
+Me chamo Artur, tenho 25 anos e atualmente estou estudando front-end onde é o meu foco.<br>
 Tenho mais domínio em HTML5 e CSS3 e estou estudando Javascript e React JS.
 
 <div>
