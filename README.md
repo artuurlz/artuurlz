@@ -1,7 +1,8 @@
 Olá, :D
 
 Me chamo Artur, tenho 25 anos e atualmente estou estudando front-end onde é o meu foco.<br>
-Tenho mais domínio em HTML5 e CSS3 e estou estudando Javascript e React JS.
+Tenho mais domínio em HTML5 e CSS3 e estou estudando Javascript e React JS.<br>
+Acesse o meu site <a href="https://artuurlz.com">clicando aqui!</a>
 
 <div>
   <a href="https://github.com/artuurlz"/>
